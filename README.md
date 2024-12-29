@@ -1,0 +1,2 @@
+# Diversity-Inclusion-Equity_Analysis_Dashboard
+Created a dashboard about Gender Equality, Diversity, Inclusion &amp; Equity in a Pharma group company, where i have calculated Nationality based hire, Gender based new hire and number of people leave the company, Performance rating, Promotions based on last year performance, Total Men and Women Employees, New hire based on age, exit based on age etc.
